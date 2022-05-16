@@ -1,1 +1,2 @@
 # Predict-feature-dimension-for-FDM
+A component was designed based on NIST (National Institute of Standards and Technology) AM benchmark.The designed benchmark component comprising of different geometrical features was built by varying process parameters on an FDM machine. Dimensions of these features were determined using the coordinate measuring machine (CMM) and the Machine learning (ML) approach was employed to predict the dimensions and deviation. 
